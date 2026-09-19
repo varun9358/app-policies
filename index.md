@@ -8,7 +8,7 @@ title: App Privacy Policies — CodeOrbit Labs
 Privacy policies for the Android applications published by **CodeOrbit Labs**.
 Each app has its own page below.
 
-_Last updated: 
+*Last updated: September 19, 2026*
 
 ---
 
@@ -38,7 +38,7 @@ and prevent abuse.
 
 ## Contact
 
-**CodeOrbit Labs**
+**CodeOrbit Labs**  
 Email: [er.varunvision@gmail.com](mailto:er.varunvision@gmail.com)
 
 For any privacy question, correction or deletion request, email us and we will

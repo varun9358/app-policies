@@ -5,9 +5,9 @@ title: FitPrompt — Privacy Policy
 
 # Privacy Policy
 
-**App name:** FitPrompt (Android package `com.fitprompt.fit_prompt`)
-**Developer:** CodeOrbit Labs
-**Contact:** er.varunvision@gmail.com
+**App name:** FitPrompt (Android package `com.fitprompt.fit_prompt`)  
+**Developer:** CodeOrbit Labs  
+**Contact:** er.varunvision@gmail.com  
 **Last updated:** September 19, 2026
 
 This Privacy Policy describes how the **FitPrompt** mobile application (referred to below as "the app", "we", "our", or "us"), published on Google Play by **CodeOrbit Labs**, handles your information.
@@ -129,7 +129,7 @@ If we change what the app collects, we will update this page and change the "Las
 
 ## 12. Contact
 
-**CodeOrbit Labs**
+**CodeOrbit Labs**  
 Email: [er.varunvision@gmail.com](mailto:er.varunvision@gmail.com)
 
 For privacy questions, corrections or deletion requests, email us and we will respond within 30 days.
