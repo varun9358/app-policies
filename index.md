@@ -8,7 +8,7 @@ title: App Privacy Policies — CodeOrbit Labs
 Privacy policies for the Android applications published by **CodeOrbit Labs**.
 Each app has its own page below.
 
-*Last updated: September 19, 2026*
+*Last updated: October 3, 2026*
 
 ---
 
@@ -25,6 +25,14 @@ and prevent abuse.
 | **PromptHub Pro** | `com.prompthubpro.prompt_hub_pro` | [Read](prompthubpro.html) |
 | **PromptVerse** | `com.promptverse.promptverse` | [Read](promptverse.html) |
 | **VideoPromptAI** | `com.promptverse.video_prompt_ai` | [Read](videopromptai.html) |
+
+---
+
+## Prayer apps
+
+| App | Package | Privacy policy |
+|---|---|---|
+| **Prayer Times & Qibla** | `com.codeorbitlabs.prayer_times` | [Read](prayertimes.html) |
 
 ---
 
